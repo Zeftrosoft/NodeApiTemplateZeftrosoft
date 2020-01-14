@@ -1,2 +1,2 @@
-# DisplayAware
- Display Aware Location Tracker
+# Base Template 
+ ## Includes Login
